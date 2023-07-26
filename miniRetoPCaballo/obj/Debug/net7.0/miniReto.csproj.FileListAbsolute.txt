@@ -1,0 +1,15 @@
+/home/arteN01-051/c#/minireto-21-july/miniReto/bin/Debug/net7.0/miniReto
+/home/arteN01-051/c#/minireto-21-july/miniReto/bin/Debug/net7.0/miniReto.deps.json
+/home/arteN01-051/c#/minireto-21-july/miniReto/bin/Debug/net7.0/miniReto.runtimeconfig.json
+/home/arteN01-051/c#/minireto-21-july/miniReto/bin/Debug/net7.0/miniReto.dll
+/home/arteN01-051/c#/minireto-21-july/miniReto/bin/Debug/net7.0/miniReto.pdb
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/miniReto.csproj.AssemblyReference.cache
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/miniReto.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/miniReto.AssemblyInfoInputs.cache
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/miniReto.AssemblyInfo.cs
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/miniReto.csproj.CoreCompileInputs.cache
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/miniReto.dll
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/refint/miniReto.dll
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/miniReto.pdb
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/miniReto.genruntimeconfig.cache
+/home/arteN01-051/c#/minireto-21-july/miniReto/obj/Debug/net7.0/ref/miniReto.dll
